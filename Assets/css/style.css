@@ -42,10 +42,10 @@ img {
 
 div {
     background: white;
-    float: middle;
+    display:block;
     border: 10px;
     padding: 20px;
-    margin: 30px
+    margin: auto
 
 }
 
